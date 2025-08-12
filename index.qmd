@@ -12,7 +12,7 @@ listing:
   filter-ui: false
 ---
 
-Transparency Check is a project funded by [TDCC](https://www.nwo.nl/en/news/fourteen-granted-projects-can-start-working-on-their-digitalisation-ambitions), including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.
+Transparency Check is a project funded by [TDCC](https://tdcc.nl/tdcc-ssh-challenge-projects/research-transparency-check/), including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.
 
 - Access an alpha version of [Papercheck](https://scienceverse.github.io/papercheck/)
 - Read the [grant proposal for Research Transparency Check](https://osf.io/cpv4d/)
