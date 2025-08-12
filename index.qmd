@@ -1,0 +1,33 @@
+---
+listing:
+  id: news-listing
+  contents: posts
+  date-format: iso
+  sort: "date desc"
+  type: default
+  max-items: 5
+  image-placeholder: "images/logo.png"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+---
+
+Transparency Check is a project funded by [TDCC](https://www.nwo.nl/en/news/fourteen-granted-projects-can-start-working-on-their-digitalisation-ambitions), including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.
+
+- Access an alpha version of [Papercheck](https://scienceverse.github.io/papercheck/)
+- Read the [grant proposal for Research Transparency Check](https://osf.io/cpv4d/)
+
+### Meet the core team 
+
+The core team of researchers for Research Transparency Check consists of René Bekkers (PI, VU Amsterdam), Daniël Lakens (co-PI and developer of papercheck, Technical University Eindhoven), Lisa DeBruine (developer and maintainer of papercheck, University of Glasgow), Cristian Mesquida (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).
+
+![Lisa, Daniël, René, Cristian, Max, and Jakub](images/papercheck_team.png)
+
+### Recent News
+
+::: {#news-listing}
+:::
+
+
+
+[Older news...](posts.html)

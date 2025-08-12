@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tansparency Check"
+  site-url: https://TansparencyCheck.github.io
+  repo-url: https://github.com/TansparencyCheck/TansparencyCheck.github.io
+  image: /images/logo.png
+  favicon: /images/favicon.ico
+  open-graph: true
+  description: ""
+  navbar:
+    logo: /images/logo.png
+    logo-alt: ""
+    right:
+      - posts.qmd
+format:
+  html:
+    theme: slate
+
+
