@@ -5,7 +5,7 @@ author: [Rene Bekkers]
 categories: [event]
 ---
 
-On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check. Because of budget limitations, we cannot reimburse travel and accommodation. We will provide a link to an online meeting room if you cannot make it to Amsterdam.
+On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check.
 
 ### Program
 
@@ -15,3 +15,5 @@ On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building a
     A. Deliberative conversation on transparency indicators, providing input on which aspects of research reports we should develop modules for;
     B. Software testing and development workshop, providing a user experience and suggestions for improvement of existing modules
 4. Plenary closing by Rene Bekkers
+
+Because of budget limitations, we cannot reimburse travel and accommodation. We will provide a link to an online meeting room if you cannot make it to Amsterdam.

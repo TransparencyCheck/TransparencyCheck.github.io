@@ -1,11 +1,13 @@
 ---
 title: "Introductory Blog Posts"
 date: 2025-07-27
-author: [Rene Bekkers]
+author: [Daniël Lakens]
 categories: [blog]
+image: ../images/papercheck.png
+image-alt: The papercheck logo -- a green hexagon
 ---
 
-We have started the project with a series of 4 blog posts introducing the software package called [papercheck](https://scienceverse.github.io/papercheck/) that forms the basis for the project. 
+We have started the project with a series of blog posts introducing the software package called [papercheck](https://scienceverse.github.io/papercheck/) that forms the basis for the project.
 
 1. [Introducing Papercheck](https://daniellakens.blogspot.com/2025/06/introducing-papercheck.html)
 2. [Automatically Checking Journal Article Reporting Standards](https://daniellakens.blogspot.com/2025/06/automatically-checking-journal-article.html)
