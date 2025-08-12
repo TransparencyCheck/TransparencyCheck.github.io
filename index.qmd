@@ -19,7 +19,7 @@ Transparency Check is a project funded by [TDCC](https://www.nwo.nl/en/news/four
 
 ### Meet the core team 
 
-The core team of researchers for Research Transparency Check consists of René Bekkers (PI, VU Amsterdam), Daniël Lakens (co-PI and developer of papercheck, Technical University Eindhoven), Lisa DeBruine (developer and maintainer of papercheck, University of Glasgow), Cristian Mesquida (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).
+The core team of researchers for Research Transparency Check consists of [René Bekkers](https://research.vu.nl/en/persons/rene-bekkers) (PI, VU Amsterdam), [Daniël Lakens](https://sites.google.com/site/lakens2/Home) (co-PI and developer of papercheck, Technical University Eindhoven), [Lisa DeBruine](https://debruine.github.io) (developer and maintainer of papercheck, University of Glasgow), [Cristian Mesquida](https://ssreplicationcentre.com/author/cristian-mesquida/) (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).
 
 ![Lisa, Daniël, René, Cristian, Max, and Jakub](images/papercheck_team.png)
 

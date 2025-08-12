@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Tansparency Check"
+  title: "Transparency Check"
   site-url: https://TansparencyCheck.github.io
   repo-url: https://github.com/TansparencyCheck/TansparencyCheck.github.io
   image: /images/logo.png
@@ -16,6 +16,8 @@ website:
       - posts.qmd
 format:
   html:
-    theme: slate
+    theme: 
+    - yeti
+    - styles.scss
 
 

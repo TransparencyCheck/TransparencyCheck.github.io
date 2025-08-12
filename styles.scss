@@ -1,4 +1,8 @@
-/* css styles */
+/*-- scss:defaults --*/
+$primary: #416E2A;
+$navbar-bg: black;
+
+/*-- scss:rules --*/
 
 .navbar-logo {
   max-height: 50px;
@@ -15,7 +19,7 @@
 }
 
 /* rainbow borders */
-nav {
+/* nav {
   margin-top: 18px;
   box-shadow: 0 -3px 0 0px var(--purple),
               0 -6px 0 0px var(--blue),
@@ -23,7 +27,7 @@ nav {
               0 -12px 0 0px var(--yellow),
               0 -15px 0 0px var(--orange),
               0 -18px 0 0px var(--pink);
-}
+}. */
 
 .hexes a { display: inline-block; 
            width: 20%; 
