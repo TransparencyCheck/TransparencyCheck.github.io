@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tansparency Check",
+    "section": "",
+    "text": "Transparency Check is a project funded by TDCC, including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.\n\nAccess an alpha version of Papercheck\nRead the grant proposal for Research Transparency Check\n\n\nMeet the core team\nThe core team of researchers for Research Transparency Check consists of René Bekkers (PI, VU Amsterdam), Daniël Lakens (co-PI and developer of papercheck, Technical University Eindhoven), Lisa DeBruine (developer and maintainer of papercheck, University of Glasgow), Cristian Mesquida (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).\n\n\n\nLisa, Daniël, René, Cristian, Max, and Jakub\n\n\n\n\nRecent News\n\n\n\n\n\n\n\n\n\n\nTransparency Check Launch Event\n\n\n\n\n\n\n\n\n\n\n\n2025-10-06\n\n\nRene Bekkers\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Blog Posts\n\n\n\n\n\n\n\n\n\n\n\n2025-07-27\n\n\nRene Bekkers\n\n\n\n\n\n\nNo matching items\n\n\nOlder news…"
+  },
+  {
+    "objectID": "posts/2025-10-06_launch.html",
+    "href": "posts/2025-10-06_launch.html",
+    "title": "Transparency Check Launch Event",
+    "section": "",
+    "text": "On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check. Because of budget limitations, we cannot reimburse travel and accommodation. We will provide a link to an online meeting room if you cannot make it to Amsterdam.\n\nProgram\n\nA plenary keynote by Daniel Lakens and Rene Bekkers, introducing the project\nA plenary illustration of transparency indicators that you can already assess with the papercheck package by Lisa DeBruine\nParallel sessions: A. Deliberative conversation on transparency indicators, providing input on which aspects of research reports we should develop modules for; B. Software testing and development workshop, providing a user experience and suggestions for improvement of existing modules\nPlenary closing by Rene Bekkers"
+  },
+  {
+    "objectID": "posts/2025-07-27_intro-blog.html",
+    "href": "posts/2025-07-27_intro-blog.html",
+    "title": "Introductory Blog Posts",
+    "section": "",
+    "text": "We have started the project with a series of 4 blog posts introducing the software package called papercheck that forms the basis for the project.\n\nIntroducing Papercheck\nAutomatically Checking Journal Article Reporting Standards\nChecking Data and Code in Repositories\nRetrieving Planned Sample Sizes\nEasily Download OSF Files\n\nThe posts attracted attention of researchers primarily in the meta science community. We are exploring new collaborations and continue to look for similar initiatives, tools and verification data. If you know of any new developments we should know about, please let us know.\nOver the summer we will be developing and validating new modules for the software, focusing primarily on the field of experimental psychology. After the summer we will start with the deliberative conversations in other data communities."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2025-10-06\n\n\nTransparency Check Launch Event\n\n\nRene Bekkers\n\n\n\n\n2025-07-27\n\n\nIntroductory Blog Posts\n\n\nRene Bekkers\n\n\n\n\n\nNo matching items"
+  }
+]
