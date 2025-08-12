@@ -11,4 +11,4 @@ Cristian Mesquida gave a Papercheck workshop at the [Open Research Summer School
 
 He explained the rationale for automated checks, and walked the audience through some of the Papercheck modules. 
 
-You can find the workshop materials on the Open Science Framework: [osf.io/b7es8](https://osf.io/b7es8)
+You can find the workshop materials on the Open Science Framework: [osf.io/y4s76](https://osf.io/y4s76).
