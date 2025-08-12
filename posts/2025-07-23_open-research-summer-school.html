@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Cristian Mesquida">
+<meta name="dcterms.date" content="2025-07-23">
 
-<title>Transparency Check</title>
+<title>Open Research Summer School – Transparency Check</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,72 +68,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-news-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-news-listing'] = new List('listing-news-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<meta property="og:title" content="Transparency Check">
+<meta property="og:title" content="Open Research Summer School – Transparency Check">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://TansparencyCheck.github.io/images/logo.png">
+<meta property="og:image" content="https://TansparencyCheck.github.io/images/papercheck.png">
 <meta property="og:site_name" content="Transparency Check">
-<meta property="og:image:height" content="200">
-<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="240">
+<meta property="og:image:width" content="240">
+<meta property="og:image:alt" content="The papercheck logo -- a green hexagon">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -143,10 +86,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Transparency Check</span>
     </a>
   </div>
@@ -157,7 +100,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="../posts.html"> 
 <span class="menu-text">Posts</span></a>
   </li>  
 </ul>
@@ -175,171 +118,45 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Open Research Summer School</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">workshop</div>
+  </div>
+  </div>
 
 
 
-<p>Transparency Check is a project funded by <a href="https://www.nwo.nl/en/news/fourteen-granted-projects-can-start-working-on-their-digitalisation-ambitions">TDCC</a>, including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.</p>
-<ul>
-<li>Access an alpha version of <a href="https://scienceverse.github.io/papercheck/">Papercheck</a></li>
-<li>Read the <a href="https://osf.io/cpv4d/">grant proposal for Research Transparency Check</a></li>
-</ul>
-<section id="meet-the-core-team" class="level3">
-<h3 class="anchored" data-anchor-id="meet-the-core-team">Meet the core team</h3>
-<p>The core team of researchers for Research Transparency Check consists of <a href="https://research.vu.nl/en/persons/rene-bekkers">René Bekkers</a> (PI, VU Amsterdam), <a href="https://sites.google.com/site/lakens2/Home">Daniël Lakens</a> (co-PI and developer of papercheck, Technical University Eindhoven), <a href="https://debruine.github.io">Lisa DeBruine</a> (developer and maintainer of papercheck, University of Glasgow), <a href="https://ssreplicationcentre.com/author/cristian-mesquida/">Cristian Mesquida</a> (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).</p>
-<div>
+<div class="quarto-title-meta">
 
-</div>
-<div class="quarto-layout-panel" data-layout-ncol="6">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/bekkers.jpg" class="img-fluid figure-img"></p>
-<figcaption>René Bekkers</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/lakens.jpg" class="img-fluid figure-img"></p>
-<figcaption>Daniël Lakens</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/debruine.jpg" class="img-fluid figure-img"></p>
-<figcaption>Lisa DeBruine</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/mesquida.jpg" class="img-fluid figure-img"></p>
-<figcaption>Cristian Mesquida</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/littel.jpg" class="img-fluid figure-img"></p>
-<figcaption>Max Littel</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 16.7%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/werner.jpg" class="img-fluid figure-img"></p>
-<figcaption>Jakub Werner</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="recent-news" class="level3">
-<h3 class="anchored" data-anchor-id="recent-news">Recent News</h3>
-<div id="listing-news-listing" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="event" data-listing-date-sort="1759708800000" data-listing-file-modified-sort="1755003317348" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
-<div class="thumbnail">
-<p><a href="./posts/2025-10-06_launch.html" class="no-external"></a></p><a href="./posts/2025-10-06_launch.html" class="no-external">
-<p class="card-img-top"><img src="images/logo.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/2025-10-06_launch.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-10-06_launch.html" class="no-external">Transparency Check Launch Event</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2025-10-06_launch.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/2025-10-06_launch.html" class="no-external">On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-10-06_launch.html" class="no-external">
-<div class="listing-date">
-2025-10-06
-</div>
-<div class="listing-author">
-Rene Bekkers
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="blog" data-listing-date-sort="1753574400000" data-listing-file-modified-sort="1755003317348" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
-<div class="thumbnail">
-<p><a href="./posts/2025-07-27_intro-blog.html" class="no-external"></a></p><a href="./posts/2025-07-27_intro-blog.html" class="no-external">
-<p><img loading="lazy" src="./images/papercheck.png" class="thumbnail-image" alt="The papercheck logo -- a green hexagon"></p>
-</a><p><a href="./posts/2025-07-27_intro-blog.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-07-27_intro-blog.html" class="no-external">Introductory Blog Posts</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2025-07-27_intro-blog.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/2025-07-27_intro-blog.html" class="no-external">We have started the project with a series of blog posts introducing the software package called papercheck that forms the basis for the project.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-07-27_intro-blog.html" class="no-external">
-<div class="listing-date">
-2025-07-27
-</div>
-<div class="listing-author">
-Daniël Lakens
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="talk" data-listing-date-sort="1753401600000" data-listing-file-modified-sort="1755003317348" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="118">
-<div class="thumbnail">
-<p><a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external"></a></p><a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external">
-<p><img loading="lazy" src="./images/glasgow.png" class="thumbnail-image" alt="The University of Glasgow crest - blue with a bird, tree, book, bell and fish"></p>
-</a><p><a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external">Glasgow Seminar on Papercheck</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external">Lisa DeBruine presented Papercheck in a talk for the University of Glasgow School of Psychology &amp; Neuroscience summer seminar series.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-07-25_glasgow-seminar.html" class="no-external">
-<div class="listing-date">
-2025-07-25
-</div>
-<div class="listing-author">
-Lisa DeBruine
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-<p><a href="posts.html">Older news…</a></p>
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Cristian Mesquida </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 23, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
-</section>
+
+<p>Cristian Mesquida gave a Papercheck workshop at the <a href="https://www.kcl.ac.uk/events/open-research-summer-school-2025">Open Research Summer School</a> at King’s College London.</p>
+<p>He explained the rationale for automated checks, and walked the audience through some of the Papercheck modules.</p>
+<p>You can find the workshop materials on the Open Science Framework: <a href="https://osf.io/b7es8">osf.io/b7es8</a></p>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

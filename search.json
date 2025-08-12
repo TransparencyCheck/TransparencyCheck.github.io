@@ -4,27 +4,55 @@
     "href": "index.html",
     "title": "Transparency Check",
     "section": "",
-    "text": "Transparency Check is a project funded by TDCC, including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.\n\nAccess an alpha version of Papercheck\nRead the grant proposal for Research Transparency Check\n\n\nMeet the core team\nThe core team of researchers for Research Transparency Check consists of René Bekkers (PI, VU Amsterdam), Daniël Lakens (co-PI and developer of papercheck, Technical University Eindhoven), Lisa DeBruine (developer and maintainer of papercheck, University of Glasgow), Cristian Mesquida (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).\n\n\n\nLisa, Daniël, René, Cristian, Max, and Jakub\n\n\n\n\nRecent News\n\n\n\n\n\n\n\n\n\n\nTransparency Check Launch Event\n\n\n\n\n\n\n\n\n\n\n\n2025-10-06\n\n\nRene Bekkers\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Blog Posts\n\n\n\n\n\n\n\n\n\n\n\n2025-07-27\n\n\nRene Bekkers\n\n\n\n\n\n\nNo matching items\n\n\nOlder news…"
+    "text": "Transparency Check is a project funded by TDCC, including software that provides an automatic assessment and suggestions for the improvement of the transparency of data and methods in research reports before they are published. Research Transparency Check serves people at universities and research institutes, academic journals, and funding agencies. We engage seven data communities for the development of transparency criteria, and checklists for documentation of these criteria specific to the most common sources of data used in the Social Sciences and Humanities.\n\nAccess an alpha version of Papercheck\nRead the grant proposal for Research Transparency Check\n\n\nMeet the core team\nThe core team of researchers for Research Transparency Check consists of René Bekkers (PI, VU Amsterdam), Daniël Lakens (co-PI and developer of papercheck, Technical University Eindhoven), Lisa DeBruine (developer and maintainer of papercheck, University of Glasgow), Cristian Mesquida (programmer and analyst, TUE), and two research assistants, Max Littel (VU) and Jakub Werner (TUE).\n\n\n\n\n\n\n\n\n\nRené Bekkers\n\n\n\n\n\n\n\nDaniël Lakens\n\n\n\n\n\n\n\nLisa DeBruine\n\n\n\n\n\n\n\nCristian Mesquida\n\n\n\n\n\n\n\nMax Littel\n\n\n\n\n\n\n\nJakub Werner\n\n\n\n\n\n\n\nRecent News\n\n\n\n\n\n\n\n\n\n\nTransparency Check Launch Event\n\n\n\n\n\n\n\n\n\n\n\n2025-10-06\n\n\nRene Bekkers\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Blog Posts\n\n\n\n\n\n\n\n\n\n\n\n2025-07-27\n\n\nDaniël Lakens\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow Seminar on Papercheck\n\n\n\n\n\n\n\n\n\n\n\n2025-07-25\n\n\nLisa DeBruine\n\n\n\n\n\n\nNo matching items\n\n\nOlder news…"
   },
   {
-    "objectID": "posts/2025-10-06_launch.html",
-    "href": "posts/2025-10-06_launch.html",
-    "title": "Transparency Check Launch Event",
+    "objectID": "posts/2025-07-02_metascience-unconference.html",
+    "href": "posts/2025-07-02_metascience-unconference.html",
+    "title": "MetaScience Unconference",
     "section": "",
-    "text": "On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check. Because of budget limitations, we cannot reimburse travel and accommodation. We will provide a link to an online meeting room if you cannot make it to Amsterdam.\n\nProgram\n\nA plenary keynote by Daniel Lakens and Rene Bekkers, introducing the project\nA plenary illustration of transparency indicators that you can already assess with the papercheck package by Lisa DeBruine\nParallel sessions: A. Deliberative conversation on transparency indicators, providing input on which aspects of research reports we should develop modules for; B. Software testing and development workshop, providing a user experience and suggestions for improvement of existing modules\nPlenary closing by Rene Bekkers"
+    "text": "Lisa DeBruine gave an impromptu Papercheck workshop in the unconference section of the MetaScience conference at UCL in London.\nAbout a dozen people attended and we discussed how Papercheck could help with their metascientific resaerch workflows."
   },
   {
     "objectID": "posts/2025-07-27_intro-blog.html",
     "href": "posts/2025-07-27_intro-blog.html",
     "title": "Introductory Blog Posts",
     "section": "",
-    "text": "We have started the project with a series of 4 blog posts introducing the software package called papercheck that forms the basis for the project.\n\nIntroducing Papercheck\nAutomatically Checking Journal Article Reporting Standards\nChecking Data and Code in Repositories\nRetrieving Planned Sample Sizes\nEasily Download OSF Files\n\nThe posts attracted attention of researchers primarily in the meta science community. We are exploring new collaborations and continue to look for similar initiatives, tools and verification data. If you know of any new developments we should know about, please let us know.\nOver the summer we will be developing and validating new modules for the software, focusing primarily on the field of experimental psychology. After the summer we will start with the deliberative conversations in other data communities."
+    "text": "We have started the project with a series of blog posts introducing the software package called papercheck that forms the basis for the project.\n\nIntroducing Papercheck\nAutomatically Checking Journal Article Reporting Standards\nChecking Data and Code in Repositories\nRetrieving Planned Sample Sizes\nEasily Download OSF Files\n\nThe posts attracted attention of researchers primarily in the meta science community. We are exploring new collaborations and continue to look for similar initiatives, tools and verification data. If you know of any new developments we should know about, please let us know.\nOver the summer we will be developing and validating new modules for the software, focusing primarily on the field of experimental psychology. After the summer we will start with the deliberative conversations in other data communities."
+  },
+  {
+    "objectID": "posts/2025-07-25_glasgow-seminar.html",
+    "href": "posts/2025-07-25_glasgow-seminar.html",
+    "title": "Glasgow Seminar on Papercheck",
+    "section": "",
+    "text": "Lisa DeBruine presented Papercheck in a talk for the University of Glasgow School of Psychology & Neuroscience summer seminar series.\nAccess the slides"
+  },
+  {
+    "objectID": "posts/2025-07-25_glasgow-seminar.html#abstract",
+    "href": "posts/2025-07-25_glasgow-seminar.html#abstract",
+    "title": "Glasgow Seminar on Papercheck",
+    "section": "Abstract",
+    "text": "Abstract\nIn this talk, I will introduce Papercheck, a new tool that leverages text search, code, and large language models to extract and supplement information from scientific documents (including manuscripts, submitted or published articles, or preregistration documents) and provides automated suggestions for improvement.\nInspired by practices in software development, where automated checks (e.g., CRAN checks for R packages) are used to identify issues before release, Papercheck aims to screen scientific manuscripts to identify potential issues or areas for improvement and guide researchers in adopting best practices. It can also assist with processing large numbers of papers for metascientific enquiry."
+  },
+  {
+    "objectID": "posts/2025-07-23_open-research-summer-school.html",
+    "href": "posts/2025-07-23_open-research-summer-school.html",
+    "title": "Open Research Summer School",
+    "section": "",
+    "text": "Cristian Mesquida gave a Papercheck workshop at the Open Research Summer School at King’s College London.\nHe explained the rationale for automated checks, and walked the audience through some of the Papercheck modules.\nYou can find the workshop materials on the Open Science Framework: osf.io/b7es8"
+  },
+  {
+    "objectID": "posts/2025-10-06_launch.html",
+    "href": "posts/2025-10-06_launch.html",
+    "title": "Transparency Check Launch Event",
+    "section": "",
+    "text": "On Monday October 6, 2025, 14.00-17.00 in the Aurora room of the main building at VU Amsterdam, we will have the Kick-off meeting for Transparency Check.\n\nProgram\n\nA plenary keynote by Daniel Lakens and Rene Bekkers, introducing the project\nA plenary illustration of transparency indicators that you can already assess with the papercheck package by Lisa DeBruine\nParallel sessions: A. Deliberative conversation on transparency indicators, providing input on which aspects of research reports we should develop modules for; B. Software testing and development workshop, providing a user experience and suggestions for improvement of existing modules\nPlenary closing by Rene Bekkers\n\nBecause of budget limitations, we cannot reimburse travel and accommodation. We will provide a link to an online meeting room if you cannot make it to Amsterdam."
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2025-10-06\n\n\nTransparency Check Launch Event\n\n\nRene Bekkers\n\n\n\n\n2025-07-27\n\n\nIntroductory Blog Posts\n\n\nRene Bekkers\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTransparency Check Launch Event\n\n\n\n\n\n\nevent\n\n\n\n\n\n\n\n\n\n2025-10-06\n\n\nRene Bekkers\n\n\n\n\n\n\n\n\n\n\n\n\nIntroductory Blog Posts\n\n\n\n\n\n\nblog\n\n\n\n\n\n\n\n\n\n2025-07-27\n\n\nDaniël Lakens\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow Seminar on Papercheck\n\n\n\n\n\n\ntalk\n\n\n\n\n\n\n\n\n\n2025-07-25\n\n\nLisa DeBruine\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Research Summer School\n\n\n\n\n\n\nworkshop\n\n\n\n\n\n\n\n\n\n2025-07-23\n\n\nCristian Mesquida\n\n\n\n\n\n\n\n\n\n\n\n\nMetaScience Unconference\n\n\n\n\n\n\nworkshop\n\n\n\n\n\n\n\n\n\n2025-07-02\n\n\nLisa DeBruine\n\n\n\n\n\n\nNo matching items"
   }
 ]
