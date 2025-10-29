@@ -1,7 +1,9 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts.html",
     "items": [
+      "/posts/2025-10-27_ai-ethics.html",
+      "/posts/2025-10-28_festival-of-ai.html",
       "/posts/2025-10-06_launch.html",
       "/posts/2025-07-27_intro-blog.html",
       "/posts/2025-07-25_glasgow-seminar.html",
@@ -10,8 +12,10 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/2025-10-27_ai-ethics.html",
+      "/posts/2025-10-28_festival-of-ai.html",
       "/posts/2025-10-06_launch.html",
       "/posts/2025-07-27_intro-blog.html",
       "/posts/2025-07-25_glasgow-seminar.html",
